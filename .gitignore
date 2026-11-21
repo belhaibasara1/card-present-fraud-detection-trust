@@ -1,0 +1,10 @@
+data/
+models/
+results/
+figures/
+*.pkl
+*.csv
+__pycache__/
+.ipynb_checkpoints/
+*.pptx
+*.docx
