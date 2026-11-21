@@ -102,3 +102,4 @@ All eight objectives set out in Chapter 1 have been addressed:
 - **Inference latency not measured:** Section 6.5 discusses the computational cost of
   running three classifiers plus SHAP per transaction, but wall-clock latency was not
   benchmarked. A timing script is provided in Appendix C.4 for this purpose.
+
